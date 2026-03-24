@@ -1,5 +1,4 @@
-# 💫 About Me:
-##🖐Hi,  I'm Anu <br><br> 🌐A Passionate "Fronted Developer" who enjoy creating clean, responsive, and user-friendly web applications.<br>
+
 
 
 # 💻 Tech Stack:
