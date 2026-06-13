@@ -76,7 +76,7 @@ A passionate full-stack developer who loves building clean, scalable, and user-c
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="(https://www.linkedin.com/in/anu-kushwaha-b0604a326?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/anu-kushwaha-b0604a326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anu001125@gmail.com">
