@@ -68,12 +68,18 @@ A passionate full-stack developer who loves building clean, scalable, and user-c
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=learning-processs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=learning-processs&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=learning-processs&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=learning-processs&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=learning-processs&theme=tokyonight&hide_border=true"
   />
 </p>
 ---
