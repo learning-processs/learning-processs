@@ -64,13 +64,18 @@ A passionate full-stack developer who loves building clean, scalable, and user-c
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=learning-processs&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learning-processs&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=learning-processs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=learning-processs&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
